@@ -1,0 +1,530 @@
+-----------2n64-torsion------------
+Structure1: PDB1  Length= 75
+Structure1: PDB2  Length= 75 (by which all scores are normalized)
+Number of residues in common= 75
+RMSD of  the common residues= 7.3603
+TM-score    = 0.4199  (d0=3.0544  TM10=0.4078)
+MaxSub-score= 0.3900  (d0= 3.50)
+GDT-TS-score= 0.5000 (d<1)= 0.2800  (d<2)= 0.3733 (d<4)= 0.5467 (d<8)= 0.8000
+GDT-HA-score= 0.3500 (d<0.5)= 0.2000  (d<1)= 0.2800 (d<2)= 0.3733, (d<4)= 0.5467
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      12.7236    0.2432     -0.9666    -0.0811
+2      -5.4565    0.8685     0.1798     0.4618
+3      18.4632    -0.4318    -0.1828    0.8832
+
+Superposition in the TM-score: Length(d<5.000000)= 37  RMSD=  2.011015
+: denotes the residue pairs of distance  5.0000 Angstrom
+GHMEGKPKMEPAASSQAAVEELRTQVRELRSIIETMKDQQKREIKQLLSELDEEKKIRLRLQMEVNDIKKALQSK
+---------------------------
+-----------3jb5-torsion------------
+Structure1: PDB1  Length= 300
+Structure1: PDB2  Length= 300 (by which all scores are normalized)
+Number of residues in common= 300
+RMSD of  the common residues= 48.1878
+TM-score    = 0.1414  (d0=6.3602  TM10=0.1120)
+MaxSub-score= 0.0768  (d0= 3.50)
+GDT-TS-score= 0.0933 (d<1)= 0.0533  (d<2)= 0.0700 (d<4)= 0.1033 (d<8)= 0.1467
+GDT-HA-score= 0.0625 (d<0.5)= 0.0233  (d<1)= 0.0533 (d<2)= 0.0700, (d<4)= 0.1033
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      63.7064    -0.5990    0.0687     0.7978
+2      55.1108    0.7557     0.3778     0.5349
+3      136.9307   -0.2647    0.9233     -0.2782
+
+Superposition in the TM-score: Length(d<5.000000)= 34  RMSD=  2.702207
+: denotes the residue pairs of distance  5.0000 Angstrom
+DFLSVGKLELPGSMIGAVRDRAIDSGVLAKLSPEQPTIFGPVKGAVFSGVPRAKIVGEGEVKPSASVDVSAFTAQPIKVVTQQRVSDEFMWADADYRLGVLQDLISPALGASIGRAVDLIAFHGIDPATGKAASAVHTSLNKTKNIVDATDSATADLVKAVGLIAGAGLQVPNGVALDPAFSFALSTEVYPKGSPLAGQPMYPAAGFAGLDNWRGLNVGASSTVSGAPEMSPASGVKAIVGDFSRVHWGFQRNFPIELIEYGDPDQTGRDLKGHNEVMVRAEAVLYVAIESLDSFAVVKE
+---------------------------
+-----------4ymp-torsion------------
+Structure1: PDB1  Length= 59
+Structure1: PDB2  Length= 59 (by which all scores are normalized)
+Number of residues in common= 59
+RMSD of  the common residues= 25.1721
+TM-score    = 0.1968  (d0=2.5776  TM10=0.1934)
+MaxSub-score= 0.1930  (d0= 3.50)
+GDT-TS-score= 0.2415 (d<1)= 0.1356  (d<2)= 0.2034 (d<4)= 0.2712 (d<8)= 0.3559
+GDT-HA-score= 0.1864 (d<0.5)= 0.1356  (d<1)= 0.1356 (d<2)= 0.2034, (d<4)= 0.2712
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      76.4641    -0.9057    0.1088     -0.4098
+2      32.0116    0.0049     0.9691     0.2465
+3      -50.0033   0.4240     0.2213     -0.8782
+
+Superposition in the TM-score: Length(d<5.000000)= 14  RMSD=  1.846202
+: denotes the residue pairs of distance  5.0000 Angstrom
+FHDVKVLSEDKRKHGTKVIQFEVGELGKRYNMQMHILIPTLGYDKEFKIQFEVNMRTFV
+---------------------------
+-----------5a7d-torsion------------
+Structure1: PDB1  Length= 288
+Structure1: PDB2  Length= 288 (by which all scores are normalized)
+Number of residues in common= 288
+RMSD of  the common residues= 52.2311
+TM-score    = 0.1676  (d0=6.2441  TM10=0.1422)
+MaxSub-score= 0.0829  (d0= 3.50)
+GDT-TS-score= 0.1094 (d<1)= 0.0486  (d<2)= 0.0764 (d<4)= 0.1111 (d<8)= 0.2014
+GDT-HA-score= 0.0660 (d<0.5)= 0.0278  (d<1)= 0.0486 (d<2)= 0.0764, (d<4)= 0.1111
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      33.4540    -0.9343    0.2895     0.2082
+2      4.3769     -0.3517    -0.8444    -0.4042
+3      2.6827     0.0588     -0.4508    0.8907
+
+Superposition in the TM-score: Length(d<5.000000)= 38  RMSD=  3.236424
+: denotes the residue pairs of distance  5.0000 Angstrom
+PEPVASWMSEQRWAGEPEVMCTLQHKSIAQEAYKNYTITTSAVCKLVRQLQQQALSLQVHFERSERVLSGLQASSLPEALAGATQLLSHLDDFTATLERRGVFFNDAKIERRRYEQHLEQIRTVSKDTRYSLERQHYINLESLLDDVQLLKRHTLITLRLIFERLVRVLVISIEQSQCDLLLRANINMVATLMNIDYDGFRSLSDAFVQNEAVRTLLVVVLDHKQSSVRALALRALATLCCAPQAINQLGSCGGIEIVRDILQVESAGERGAIERREAVSLLAQITAA
+---------------------------
+-----------5aoz-torsion------------
+Structure1: PDB1  Length= 73
+Structure1: PDB2  Length= 73 (by which all scores are normalized)
+Number of residues in common= 73
+RMSD of  the common residues= 11.7712
+TM-score    = 0.2312  (d0=2.9999  TM10=0.2141)
+MaxSub-score= 0.2021  (d0= 3.50)
+GDT-TS-score= 0.3185 (d<1)= 0.2055  (d<2)= 0.2192 (d<4)= 0.2877 (d<8)= 0.5616
+GDT-HA-score= 0.1986 (d<0.5)= 0.0822  (d<1)= 0.2055 (d<2)= 0.2192, (d<4)= 0.2877
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      8.5837     0.2990     0.3552     -0.8857
+2      7.3705     0.7003     -0.7121    -0.0492
+3      22.3562    -0.6482    -0.6056    -0.4617
+
+Superposition in the TM-score: Length(d<5.000000)= 17  RMSD=  1.620112
+: denotes the residue pairs of distance  5.0000 Angstrom
+AILGANFKSLDDKGEPLVPKDGAAVFTLYVNVPANTPDGTYYVGFNGKNEVHKSNDGSQFTVASKNGAITVGT
+---------------------------
+-----------5d9g-torsion------------
+Structure1: PDB1  Length= 92
+Structure1: PDB2  Length= 92 (by which all scores are normalized)
+Number of residues in common= 92
+RMSD of  the common residues= 26.5112
+TM-score    = 0.1817  (d0=3.4754  TM10=0.1681)
+MaxSub-score= 0.1526  (d0= 3.50)
+GDT-TS-score= 0.1929 (d<1)= 0.1196  (d<2)= 0.1522 (d<4)= 0.2065 (d<8)= 0.2935
+GDT-HA-score= 0.1467 (d<0.5)= 0.1087  (d<1)= 0.1196 (d<2)= 0.1522, (d<4)= 0.2065
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      20.6252    -0.5426    -0.5411    0.6425
+2      27.9794    -0.7936    0.0797     -0.6032
+3      38.2745    0.2752     -0.8372    -0.4727
+
+Superposition in the TM-score: Length(d<5.000000)= 17  RMSD=  1.902652
+: denotes the residue pairs of distance  5.0000 Angstrom
+LKVACAEEWQESRTEGEHSKEVIKPYDWTYTTDYKGTLLGESLKLKVVPTTDHIDTEKLKAREQIKFFEEVLLFEDELHDHGVSSLSVKIRV
+---------------------------
+-----------5ere-torsion------------
+Structure1: PDB1  Length= 133
+Structure1: PDB2  Length= 133 (by which all scores are normalized)
+Number of residues in common= 133
+RMSD of  the common residues= 23.6193
+TM-score    = 0.1875  (d0=4.2820  TM10=0.1725)
+MaxSub-score= 0.1608  (d0= 3.50)
+GDT-TS-score= 0.1786 (d<1)= 0.0827  (d<2)= 0.1504 (d<4)= 0.1955 (d<8)= 0.2857
+GDT-HA-score= 0.1222 (d<0.5)= 0.0602  (d<1)= 0.0827 (d<2)= 0.1504, (d<4)= 0.1955
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      6.9472     -0.7964    0.5104     0.3243
+2      -22.6628   -0.1074    0.4083     -0.9065
+3      2.9030     -0.5951    -0.7568    -0.2704
+
+Superposition in the TM-score: Length(d<5.000000)= 26  RMSD=  1.728042
+: denotes the residue pairs of distance  5.0000 Angstrom
+KPVVGVILPFSSAFEDIAVEQQRAVELALAESGSAFEIVFKDGGADVDTAVQAFQDLVRSQENLAAVVSCSSWASSAIHPLAAEKDIFHVAIGSAALKRTEPGHTIRLTVGVQQEQEQLAAYLTDFERIAVLA
+---------------------------
+-----------5fhy-torsion------------
+Structure1: PDB1  Length= 229
+Structure1: PDB2  Length= 229 (by which all scores are normalized)
+Number of residues in common= 229
+RMSD of  the common residues= 32.5641
+TM-score    = 0.1217  (d0=5.6170  TM10=0.1059)
+MaxSub-score= 0.0725  (d0= 3.50)
+GDT-TS-score= 0.0950 (d<1)= 0.0480  (d<2)= 0.0699 (d<4)= 0.0961 (d<8)= 0.1659
+GDT-HA-score= 0.0611 (d<0.5)= 0.0306  (d<1)= 0.0480 (d<2)= 0.0699, (d<4)= 0.0961
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      45.4409    -0.7646    -0.5178    -0.3838
+2      42.1584    -0.5378    0.1844     0.8226
+3      26.5712    -0.3552    0.8354     -0.4195
+
+Superposition in the TM-score: Length(d<5.000000)= 25  RMSD=  3.530588
+: denotes the residue pairs of distance  5.0000 Angstrom
+DILKASATQSAVAGTYQIQVNSLATSSKIALQAIADPANAKFNSGTLNISVGDTKLPAITVDSSNNTLAGMRDAINQAGKEAGVSATIITDNSGSRLVLSSTKTGDGKDIKVEVSDDGSGGNTSLSQLAFDPATAPKLSDGAAAGYVTKAANGEITVDGLKRSIASNSVSDVIDGVSFDVKAVTEAGKPITLTVSRDDAGVKDNVKKFVEAYNTLTKFINEQTVVTKVG
+---------------------------
+-----------5fjl-torsion------------
+Structure1: PDB1  Length= 136
+Structure1: PDB2  Length= 136 (by which all scores are normalized)
+Number of residues in common= 136
+RMSD of  the common residues= 38.5661
+TM-score    = 0.1401  (d0=4.3331  TM10=0.1250)
+MaxSub-score= 0.1053  (d0= 3.50)
+GDT-TS-score= 0.1268 (d<1)= 0.0735  (d<2)= 0.1029 (d<4)= 0.1397 (d<8)= 0.1912
+GDT-HA-score= 0.0938 (d<0.5)= 0.0588  (d<1)= 0.0735 (d<2)= 0.1029, (d<4)= 0.1397
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      26.6705    -0.1324    0.8854     -0.4456
+2      0.4835     -0.7192    -0.3952    -0.5715
+3      -1.5347    -0.6821    0.2448     0.6891
+
+Superposition in the TM-score: Length(d<5.000000)= 20  RMSD=  2.592365
+: denotes the residue pairs of distance  5.0000 Angstrom
+VSYSDGHFLTKSGGVINFRKTRVTSITITILGNYGLRVVNGELQNTPLTFKGADFKSSTLKDELLIPLEGAVQLNTAPSTALCIFITTDHVYRELCMMQFLTDVDKTPFLVVLRSESKHETIQYMHIVTVHPFLSL
+---------------------------
+-----------5idj-torsion------------
+Structure1: PDB1  Length= 142
+Structure1: PDB2  Length= 142 (by which all scores are normalized)
+Number of residues in common= 142
+RMSD of  the common residues= 16.4668
+TM-score    = 0.2737  (d0=4.4329  TM10=0.2570)
+MaxSub-score= 0.2094  (d0= 3.50)
+GDT-TS-score= 0.2482 (d<1)= 0.1056  (d<2)= 0.1972 (d<4)= 0.2958 (d<8)= 0.3944
+GDT-HA-score= 0.1690 (d<0.5)= 0.0775  (d<1)= 0.1056 (d<2)= 0.1972, (d<4)= 0.2958
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      13.6229    0.7421     -0.6699    -0.0231
+2      -31.0405   -0.1626    -0.2134    0.9633
+3      64.7479    -0.6503    -0.7111    -0.2673
+
+Superposition in the TM-score: Length(d<5.000000)= 45  RMSD=  2.546947
+: denotes the residue pairs of distance  5.0000 Angstrom
+LSQAQKMQAIGQLAGGVAHDFNNLLTAIQLRLDQLLHRHPVGDPSYEGLNEIRQTGVRAADLVRKLLAFSRKQTVQREVLDLGELISEFEVLLRRLLREDVKLITDYGRDLPQVRADKSQLETAVMNLAVNARDAVRAAKGG
+---------------------------
+-----------5j4a-torsion------------
+Structure1: PDB1  Length= 104
+Structure1: PDB2  Length= 104 (by which all scores are normalized)
+Number of residues in common= 104
+RMSD of  the common residues= 22.8993
+TM-score    = 0.2078  (d0=3.7363  TM10=0.1938)
+MaxSub-score= 0.1831  (d0= 3.50)
+GDT-TS-score= 0.2139 (d<1)= 0.1346  (d<2)= 0.1923 (d<4)= 0.2404 (d<8)= 0.2885
+GDT-HA-score= 0.1611 (d<0.5)= 0.0769  (d<1)= 0.1346 (d<2)= 0.1923, (d<4)= 0.2404
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      7.6607     0.3989     -0.9159    0.0449
+2      57.9494    -0.9104    -0.4014    -0.0999
+3      -2.2172    0.1095     -0.0010    -0.9940
+
+Superposition in the TM-score: Length(d<5.000000)= 22  RMSD=  1.466109
+: denotes the residue pairs of distance  5.0000 Angstrom
+AGSIVISKEVRVPVSTSQFDYLVSRIGDQFHSSDMWIKDEVYLPMEEGGMSFISTESLNSSGLSIFLATVMRARAASQAEESFPLYENVWNQLVEKLRQDARLG
+---------------------------
+-----------5j5v-torsion------------
+Structure1: PDB1  Length= 272
+Structure1: PDB2  Length= 272 (by which all scores are normalized)
+Number of residues in common= 272
+RMSD of  the common residues= 22.5292
+TM-score    = 0.1900  (d0=6.0837  TM10=0.1397)
+MaxSub-score= 0.0984  (d0= 3.50)
+GDT-TS-score= 0.1287 (d<1)= 0.0662  (d<2)= 0.0919 (d<4)= 0.1471 (d<8)= 0.2096
+GDT-HA-score= 0.0873 (d<0.5)= 0.0441  (d<1)= 0.0662 (d<2)= 0.0919, (d<4)= 0.1471
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      16.8232    0.4913     0.3650     0.7909
+2      -3.8782    -0.8554    0.3733     0.3591
+3      -24.5965   -0.1642    -0.8529    0.4956
+
+Superposition in the TM-score: Length(d<5.000000)= 30  RMSD=  3.353081
+: denotes the residue pairs of distance  5.0000 Angstrom
+CRIGANMIWDAEKRGVLKPGVELVEPTSGNTGIALAYVAAARGYKLTLTMPETMSIERRKLLKALGANLVLTEGAKGMKGAIQKAEEIVASNPEKYLLLQQFSNPANPEIHEKTTGPEIWEDTDGQVDVFIAGVGTGGTLTGVSRYIKGTKGKTDLISVAVEPTDSPVIAQALAGEEIKPGPHKIQGIGAGFIPANLDLKLVDKVIGITNEEAISTARRLMEEEGILAGISSGAAVAAALKLQEDESFTNKNIVVILPSSGERYLSTALFAD
+---------------------------
+-----------5jmb-torsion------------
+Structure1: PDB1  Length= 36
+Structure1: PDB2  Length= 36 (by which all scores are normalized)
+Number of residues in common= 36
+RMSD of  the common residues= 9.5086
+TM-score    = 0.3169  (d0=1.6211  TM10=0.3155)
+MaxSub-score= 0.4183  (d0= 3.50)
+GDT-TS-score= 0.5347 (d<1)= 0.3056  (d<2)= 0.3889 (d<4)= 0.6389 (d<8)= 0.8056
+GDT-HA-score= 0.3889 (d<0.5)= 0.2222  (d<1)= 0.3056 (d<2)= 0.3889, (d<4)= 0.6389
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -1.3423    0.6544     0.7283     0.2035
+2      0.1867     -0.7340    0.6764     -0.0607
+3      5.7052     -0.1819    -0.1097    0.9772
+
+Superposition in the TM-score: Length(d<5.000000)= 20  RMSD=  2.249443
+: denotes the residue pairs of distance  5.0000 Angstrom
+PFEGKYEVTFGVQTRGGIVYGNPATFTIDSFCADFV
+---------------------------
+-----------5jmu-torsion------------
+Structure1: PDB1  Length= 85
+Structure1: PDB2  Length= 85 (by which all scores are normalized)
+Number of residues in common= 85
+RMSD of  the common residues= 15.1617
+TM-score    = 0.3348  (d0=3.3104  TM10=0.3199)
+MaxSub-score= 0.2964  (d0= 3.50)
+GDT-TS-score= 0.3441 (d<1)= 0.2118  (d<2)= 0.2941 (d<4)= 0.3765 (d<8)= 0.4941
+GDT-HA-score= 0.2559 (d<0.5)= 0.1412  (d<1)= 0.2118 (d<2)= 0.2941, (d<4)= 0.3765
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -19.4183   -0.0662    0.7945     0.6037
+2      5.6101     0.8931     -0.2226    0.3910
+3      0.9483     0.4450     0.5650     -0.6948
+
+Superposition in the TM-score: Length(d<5.000000)= 32  RMSD=  1.967782
+: denotes the residue pairs of distance  5.0000 Angstrom
+TQLVNDVTARGLLYCDWNVSSGDANPKPISTEQVVQNVISGVQSHNVSVVLQHDIKEFSVNAVEQIIQWGQANGYTFLPLTTSSP
+---------------------------
+-----------5jo9-torsion------------
+Structure1: PDB1  Length= 239
+Structure1: PDB2  Length= 239 (by which all scores are normalized)
+Number of residues in common= 239
+RMSD of  the common residues= 25.2019
+TM-score    = 0.1983  (d0=5.7307  TM10=0.1575)
+MaxSub-score= 0.0979  (d0= 3.50)
+GDT-TS-score= 0.1318 (d<1)= 0.0669  (d<2)= 0.0921 (d<4)= 0.1464 (d<8)= 0.2218
+GDT-HA-score= 0.0868 (d<0.5)= 0.0418  (d<1)= 0.0669 (d<2)= 0.0921, (d<4)= 0.1464
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      0.0976     0.7724     -0.4169    0.4792
+2      30.3758    0.1543     -0.6087    -0.7783
+3      1.0238     0.6161     0.6751     -0.4058
+
+Superposition in the TM-score: Length(d<5.000000)= 37  RMSD=  3.251851
+: denotes the residue pairs of distance  5.0000 Angstrom
+ELEGKVAAVTGAASGIGLASAEAMLAAGARVVMVDRDEAALKALCNKHGDTVIPLVVDLLDPEDCATLLPRVLEKACQLDILHANAGTYVGGDLVDADTMAIDRMLNLNVNVVMKNVHDVLPHMIERRTGDIIVTSSLAAHFPTPWEPVYASSKWAINCFVQTVRRQVFKHGIRVGSISPGPVVSALLADWPPEKLKEARDSGSLLEASDVAEVVMFMLTRPRGMTIRDVLMLPTNFDL
+---------------------------
+-----------5kkp-torsion------------
+Structure1: PDB1  Length= 63
+Structure1: PDB2  Length= 63 (by which all scores are normalized)
+Number of residues in common= 63
+RMSD of  the common residues= 11.4414
+TM-score    = 0.3081  (d0=2.7065  TM10=0.3034)
+MaxSub-score= 0.2945  (d0= 3.50)
+GDT-TS-score= 0.3770 (d<1)= 0.1587  (d<2)= 0.2540 (d<4)= 0.4444 (d<8)= 0.6508
+GDT-HA-score= 0.2460 (d<0.5)= 0.1270  (d<1)= 0.1587 (d<2)= 0.2540, (d<4)= 0.4444
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      8.0070     0.0153     0.9997     -0.0184
+2      -14.4080   -0.7054    -0.0023    -0.7088
+3      -66.3611   -0.7087    0.0238     0.7051
+
+Superposition in the TM-score: Length(d<5.000000)= 24  RMSD=  2.161967
+: denotes the residue pairs of distance  5.0000 Angstrom
+RHKIRDYSLSGAYRKIIIRPQNVSWEVVAYDDPKIPLFNTDVDNLEGKTPPVFASEGKYRALK
+---------------------------
+-----------5ko9-torsion------------
+Structure1: PDB1  Length= 146
+Structure1: PDB2  Length= 146 (by which all scores are normalized)
+Number of residues in common= 146
+RMSD of  the common residues= 22.6557
+TM-score    = 0.1982  (d0=4.4977  TM10=0.1689)
+MaxSub-score= 0.1454  (d0= 3.50)
+GDT-TS-score= 0.1781 (d<1)= 0.0822  (d<2)= 0.1507 (d<4)= 0.1781 (d<8)= 0.3014
+GDT-HA-score= 0.1182 (d<0.5)= 0.0616  (d<1)= 0.0822 (d<2)= 0.1507, (d<4)= 0.1781
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      8.2487     -0.8234    -0.3217    0.4674
+2      -44.9551   -0.5574    0.3041     -0.7725
+3      -33.4692   0.1064     -0.8967    -0.4297
+
+Superposition in the TM-score: Length(d<5.000000)= 28  RMSD=  3.201867
+: denotes the residue pairs of distance  5.0000 Angstrom
+CGRTSCHLPRDVLTRACAYQDRRGQQRLPEWRDPDKYCPSYNKSPQSNSPVLLSRLHFEKDADSSERIIAPMRWGLVPSWFKESDPSKLQFNTTNCRSDTVMEKRSFKVPLGKGRRCVVLADGFYEWQRCQGTNQRQPYFIYFPQI
+---------------------------
+-----------5lev-torsion------------
+Structure1: PDB1  Length= 242
+Structure1: PDB2  Length= 242 (by which all scores are normalized)
+Number of residues in common= 242
+RMSD of  the common residues= 43.0898
+TM-score    = 0.1870  (d0=5.7642  TM10=0.1699)
+MaxSub-score= 0.1195  (d0= 3.50)
+GDT-TS-score= 0.1498 (d<1)= 0.0909  (d<2)= 0.1074 (d<4)= 0.1736 (d<8)= 0.2273
+GDT-HA-score= 0.1095 (d<0.5)= 0.0661  (d<1)= 0.0909 (d<2)= 0.1074, (d<4)= 0.1736
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -13.5191   -0.7910    0.3421     -0.5073
+2      33.3434    -0.2012    -0.9284    -0.3124
+3      2.8544     -0.5778    -0.1450    0.8032
+
+Superposition in the TM-score: Length(d<5.000000)= 43  RMSD=  2.421553
+: denotes the residue pairs of distance  5.0000 Angstrom
+HLDLGILYYVYMGLLAVFCTNAINILAGINGLEAGQSLVISASIIVFNLVELEGDCRDDHVFSLYFMIPFFFTTLGLLYHNWYPSRVFVGDTFCYFAGMTFAGVGILGHFSKTMLLFFMPQVFNFLYSLPQLLHIIPCPRHRIPRLNIKTGKLEMSYSKFKTKSLSFLGTFILKVAESLQLVTVHQSETEDGEFTECNNMTLINLLLKVLGPIHERNLTLLLLLLQILGSAITFSIRYQLVR
+---------------------------
+-----------5m2o-torsion------------
+Structure1: PDB1  Length= 74
+Structure1: PDB2  Length= 74 (by which all scores are normalized)
+Number of residues in common= 74
+RMSD of  the common residues= 13.1289
+TM-score    = 0.2320  (d0=3.0273  TM10=0.2098)
+MaxSub-score= 0.2082  (d0= 3.50)
+GDT-TS-score= 0.2568 (d<1)= 0.1486  (d<2)= 0.1892 (d<4)= 0.2703 (d<8)= 0.4189
+GDT-HA-score= 0.1757 (d<0.5)= 0.0946  (d<1)= 0.1486 (d<2)= 0.1892, (d<4)= 0.2703
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      8.1726     -0.2377    -0.0965    0.9665
+2      -19.6353   0.7300     -0.6742    0.1122
+3      -0.7787    0.6408     0.7322     0.2307
+
+Superposition in the TM-score: Length(d<5.000000)= 20  RMSD=  2.023259
+: denotes the residue pairs of distance  5.0000 Angstrom
+SVQKFPGDANCDGIVDISDAVLIMQTMANPSKYQMTDKGRINADVTGNSDGVTVLDAQFIQSYCLGLVELPPVE
+---------------------------
+-----------5mqp-torsion------------
+Structure1: PDB1  Length= 602
+Structure1: PDB2  Length= 602 (by which all scores are normalized)
+Number of residues in common= 602
+RMSD of  the common residues= 43.4482
+TM-score    = 0.1290  (d0=8.5825  TM10=0.0677)
+MaxSub-score= 0.0282  (d0= 3.50)
+GDT-TS-score= 0.0428 (d<1)= 0.0166  (d<2)= 0.0266 (d<4)= 0.0432 (d<8)= 0.0847
+GDT-HA-score= 0.0245 (d<0.5)= 0.0116  (d<1)= 0.0166 (d<2)= 0.0266, (d<4)= 0.0432
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -56.0138   0.7550     -0.6544    0.0414
+2      19.1459    0.2844     0.3838     0.8785
+3      -37.3032   -0.5908    -0.6515    0.4759
+
+Superposition in the TM-score: Length(d<5.000000)= 27  RMSD=  3.452433
+: denotes the residue pairs of distance  5.0000 Angstrom
+LSAGEIWISPQGNDLNDGTRPSPKATLTSALRQAREWRRTDDERVRGGITICMEGGTYALYEPVFIRPEDSGTEDSPTVIRPVADEKVVLSGGIRIGGWKKQGKLWVADVPMFNGRPLDFRQLWVNGKKAVRARDVEDFEKMNRICSVDEKNEILYVPAVAIRRLVDGKGALKAKYAEMVLHQMWCVANLRIRSVELAGDSAAIRFHQPESRIQFEHPWPRPMVTTDGHNSAFYLTNARELLDVAGEWYHDIDARKVYYYPREGEKLQDAGTEVIVPAIETLIQVKGTFDRPVSHIRFEKITFSHTTWMRPSEKGHVPLQAGMYLTDGYRIDPKMERDYLNHPLDNQGWLGRPAAAVSVAAANQIDFERCRFDHLGSTGLDYEEAVQGGVVRGCLFRDIAGNGLVVGSFSPAAHETHLPYDPTDLREVCAHQQISNCYFTEVGNEDWGCLAILAGYVKDINIEHNEICEVPYSGISLGWGWTQTVNCMRNNRVHANLIHHYAKHMYDVAGVYTLGSQPKSYVTENCVHSIYKPGYVHDPNHWFYLYTDEGSSFITVRDNWTEGEKYLQNANGPGNVWENNGPQVDTVIRERAGLEAEYRDLK
+---------------------------
+-----------5sy1-torsion------------
+Structure1: PDB1  Length= 549
+Structure1: PDB2  Length= 549 (by which all scores are normalized)
+Number of residues in common= 549
+RMSD of  the common residues= 53.8147
+TM-score    = 0.1250  (d0=8.2601  TM10=0.0892)
+MaxSub-score= 0.0551  (d0= 3.50)
+GDT-TS-score= 0.0660 (d<1)= 0.0273  (d<2)= 0.0474 (d<4)= 0.0765 (d<8)= 0.1129
+GDT-HA-score= 0.0419 (d<0.5)= 0.0164  (d<1)= 0.0273 (d<2)= 0.0474, (d<4)= 0.0765
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      51.6916    0.9280     0.1374     -0.3464
+2      -2.3810    -0.1464    -0.7205    -0.6778
+3      124.2035   -0.3427    0.6797     -0.6485
+
+Superposition in the TM-score: Length(d<5.000000)= 33  RMSD=  3.180423
+: denotes the residue pairs of distance  5.0000 Angstrom
+EVIPPCDPTADEGLFHICIAAISLVVMLVLAILARRQKLSDNQRGLTGLLSPVNFLDHTQHKGLAVAVYGVLFCKLVGMVLSHHPLPFTKEVANKEFWMILALLYYPTLYYPLLACGTLHNKVGYVLGSLLSWTHFGILVWQKVDCPKTPQIYKYYALFGSLPQIACLAFLSFQYPLLLFKGLQNTETANASEDLSSSYYRDYVKKILKKKKPTKISSSTSKPKLFDRLRDAVKSYIYTPEDVFRFPLKLAISVVVAFIALYQMALLLISGVLPTLHIVRRGVDENIAFLLAGFNIILSNDRQEVVRIVVYYLWCVEICYVSAVTLSCLVNLLMLMRSMVLHRSNLKGLYRGDSLNVFNCHRSIRPSRPALVCWMGFTSYQAAFLCLGMAIQTLVFFICILFAVFLIIIPILWGTNLMLFHIIGNLWPFWLTLVLAALIQHVASRFLFIRKDGGTRDLNNRGSLFLLSYILFLVNVMIGVVLGIWRVVITALFNIVHLGRLDISLLNRNVEAFDPGYRCYSHYLKIEVSQSHPVMKAFCGLLLQSSGQD
+---------------------------
+-----------5tf2-torsion------------
+Structure1: PDB1  Length= 149
+Structure1: PDB2  Length= 149 (by which all scores are normalized)
+Number of residues in common= 149
+RMSD of  the common residues= 19.9609
+TM-score    = 0.1979  (d0=4.5454  TM10=0.1728)
+MaxSub-score= 0.1343  (d0= 3.50)
+GDT-TS-score= 0.1644 (d<1)= 0.0805  (d<2)= 0.1342 (d<4)= 0.1879 (d<8)= 0.2550
+GDT-HA-score= 0.1141 (d<0.5)= 0.0537  (d<1)= 0.0805 (d<2)= 0.1342, (d<4)= 0.1879
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -46.4302   0.3672     0.6262     -0.6878
+2      27.8306    -0.4894    -0.4987    -0.7153
+3      -40.1133   -0.7910    0.5993     0.1234
+
+Superposition in the TM-score: Length(d<5.000000)= 29  RMSD=  2.349218
+: denotes the residue pairs of distance  5.0000 Angstrom
+PTFSSTPYRYQACRFGQVPDQPAGLRLFTVQIPHKRLRQPPPCYLTAWDGSNFLPLRTKSCGHEVVSCLDVSESGTFLGLGTVTGSVAIYIAFSLQCLYYVREAHGIVVTDVAFLPEKGRGPELLGSHETALFSVAVDSRCQLHLLPSR
+---------------------------
+-----------5uvn-torsion------------
+Structure1: PDB1  Length= 306
+Structure1: PDB2  Length= 306 (by which all scores are normalized)
+Number of residues in common= 306
+RMSD of  the common residues= 42.1434
+TM-score    = 0.1087  (d0=6.4171  TM10=0.0928)
+MaxSub-score= 0.0525  (d0= 3.50)
+GDT-TS-score= 0.0743 (d<1)= 0.0327  (d<2)= 0.0458 (d<4)= 0.0817 (d<8)= 0.1373
+GDT-HA-score= 0.0449 (d<0.5)= 0.0196  (d<1)= 0.0327 (d<2)= 0.0458, (d<4)= 0.0817
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      -62.5749   0.1143     -0.9817    0.1522
+2      24.0054    0.5216     0.1897     0.8318
+3      -56.3296   -0.8455    -0.0157    0.5337
+
+Superposition in the TM-score: Length(d<5.000000)= 24  RMSD=  3.135828
+: denotes the residue pairs of distance  5.0000 Angstrom
+GPEVTLITANAEGIEGGKTTIKSRSVDVGVVESATLADDLTHVEIKARLNSGMEKLLHKDTVFWVVKPQIGREGISGLGTLLSGVYIELQPGAKGSKMDKYDLLDSPPLAPPDAKGIRVILDSKKAGQLSPGDPVLFRGYRVGSVETSTFDTQKRNISYQLFINAPYDRLVTNNVRFWKDSGIAVDLTSAGMRVEMGSLTTLLSGGVSFDVPEGLDLGQPVAPKTAFVLYDDQKSIQDSLYTDHIDYLMFFKDSVRGLQPGAPVEFRGIRLGTVSKVPFFAPNMRQTFNDDYRIPVLIRIEPERLK
+---------------------------
+-----------5uw2-torsion------------
+Structure1: PDB1  Length= 83
+Structure1: PDB2  Length= 83 (by which all scores are normalized)
+Number of residues in common= 83
+RMSD of  the common residues= 22.4581
+TM-score    = 0.1927  (d0=3.2613  TM10=0.1835)
+MaxSub-score= 0.1657  (d0= 3.50)
+GDT-TS-score= 0.1988 (d<1)= 0.1205  (d<2)= 0.1687 (d<4)= 0.2169 (d<8)= 0.2892
+GDT-HA-score= 0.1476 (d<0.5)= 0.0843  (d<1)= 0.1205 (d<2)= 0.1687, (d<4)= 0.2169
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      51.6814    -0.5244    -0.4702    -0.7098
+2      23.8905    -0.7829    -0.0616    0.6192
+3      40.3134    -0.3348    0.8804     -0.3358
+
+Superposition in the TM-score: Length(d<5.000000)= 18  RMSD=  2.012719
+: denotes the residue pairs of distance  5.0000 Angstrom
+EPTYTLYATFDNIGGLKARSPVSIGGVVVGRVADITLDPKTYLPRVTLEIEQRYNHIPDTSSLSIRTSGLLGEQYLALNVGFE
+---------------------------
+-----------5xi8-torsion------------
+Structure1: PDB1  Length= 129
+Structure1: PDB2  Length= 129 (by which all scores are normalized)
+Number of residues in common= 129
+RMSD of  the common residues= 11.7265
+TM-score    = 0.3857  (d0=4.2125  TM10=0.3717)
+MaxSub-score= 0.2798  (d0= 3.50)
+GDT-TS-score= 0.3624 (d<1)= 0.1628  (d<2)= 0.2713 (d<4)= 0.4031 (d<8)= 0.6124
+GDT-HA-score= 0.2345 (d<0.5)= 0.1008  (d<1)= 0.1628 (d<2)= 0.2713, (d<4)= 0.4031
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      24.8596    -0.6285    -0.6222    -0.4669
+2      43.5232    -0.0719    -0.5512    0.8313
+3      -7.4376    -0.7745    0.5560     0.3017
+
+Superposition in the TM-score: Length(d<5.000000)= 54  RMSD=  2.622518
+: denotes the residue pairs of distance  5.0000 Angstrom
+EANKYDEARKTLQPLLAAEPGNAWYLDLATDIDLGQNKANEAINRLKNARDLRTNPVLQLNLANAYLQGGQPQEAANILNRYTFNNKDDSNGWDLLAQAEAALNNRDQELAARAEGYALAGRLDQAISL
+---------------------------
+-----------6da6-torsion------------
+Structure1: PDB1  Length= 268
+Structure1: PDB2  Length= 268 (by which all scores are normalized)
+Number of residues in common= 268
+RMSD of  the common residues= 49.7235
+TM-score    = 0.1453  (d0=6.0426  TM10=0.1241)
+MaxSub-score= 0.0797  (d0= 3.50)
+GDT-TS-score= 0.1045 (d<1)= 0.0485  (d<2)= 0.0784 (d<4)= 0.1082 (d<8)= 0.1828
+GDT-HA-score= 0.0662 (d<0.5)= 0.0299  (d<1)= 0.0485 (d<2)= 0.0784, (d<4)= 0.1082
+
+ -------- rotation matrix to rotate Chain-1 to Chain-2 ------
+i      t(i)       u(i,1)     u(i,2)     u(i,3)
+1      25.1678    -0.0554    -0.9650    0.2564
+2      -54.7658   0.9687     0.0103     0.2481
+3      -8.4687    -0.2420    0.2621     0.9342
+
+Superposition in the TM-score: Length(d<5.000000)= 31  RMSD=  2.682438
+: denotes the residue pairs of distance  5.0000 Angstrom
+SMKRLKDLREYLAVLEAHQDVREIDEPVDPHLEAGAAARWTYENRGPALMLNDLTGTGRFCRILAAPAGLSTIPGSPLARVALSLGLDVSATAHEIVDSLAAARTREPVAPVVVDSAPCQDNVLLGDDANLDRFPAPLLHEGDGGPYLNTWGTIIVSTPDGSFTNWAIARVMKIDGKRMTGTFIPTQHLGQIRKLWDNLGQPMPFAIVQGTEPGIPFVASMPLPDGIEEVGFLGAYFGEPLELVRAKTVDLLVPASAEIVIEGHVMPG
+---------------------------
+core.init: Checking for fconfig files in pwd and ./rosetta/flags 
+core.init: Rosetta version: PyRosetta4.Release.python36.mac r192 unknown b431e060d28eedbae889a0ed2c1afe7acc94a066 http://www.pyrosetta.org 2018-09-15T19:48:03
+core.init: command: PyRosetta -ex1 -ex2aro -database /Users/darshan/anaconda3/lib/python3.6/site-packages/pyrosetta-unknown-py3.6-macosx-10.7-x86_64.egg/pyrosetta/database
+core.init: 'RNG device' seed mode, using '/dev/urandom', seed=1786986456 seed_offset=0 real_seed=1786986456
+core.init.random: RandomGenerator:init: Normal mode, seed=1786986456 RG_type=mt19937
+core.init: Checking for fconfig files in pwd and ./rosetta/flags 
+core.init: Rosetta version: PyRosetta4.Release.python36.mac r192 unknown b431e060d28eedbae889a0ed2c1afe7acc94a066 http://www.pyrosetta.org 2018-09-15T19:48:03
+core.init: command: PyRosetta -ex1 -ex2aro -database /Users/darshan/anaconda3/lib/python3.6/site-packages/pyrosetta-unknown-py3.6-macosx-10.7-x86_64.egg/pyrosetta/database
+core.init: 'RNG device' seed mode, using '/dev/urandom', seed=-524534714 seed_offset=0 real_seed=-524534714
+core.init.random: RandomGenerator:init: Normal mode, seed=-524534714 RG_type=mt19937
